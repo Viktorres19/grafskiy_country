@@ -1,3 +1,19 @@
-Graf's country (responsive) - create in july 2017 from PSD - testing task
+# vue-grafskiy-country
 
+## Project setup
+```
+yarn install
+```
 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
